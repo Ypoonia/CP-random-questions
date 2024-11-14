@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 
 // हर हर महादेव
 // हरे कृष्णा
-public class Main {
+public class countFairPairs {
     static Scanner sc = new Scanner(System.in);
     static FastReader in = new FastReader();
 
